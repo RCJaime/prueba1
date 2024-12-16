@@ -1,2 +1,2 @@
-# prueba1
-Prueba prueba
+# Readme
+Esto es el archivo readme
